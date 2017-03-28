@@ -1,0 +1,16 @@
+body {
+  font-family: Helvetica;
+}
+
+a {
+  font-size: 14px;
+  color: grey;
+}
+
+.increase {
+  color: green;
+}
+
+.decrease {
+  color: red;
+}
